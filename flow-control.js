@@ -19,3 +19,5 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
+
+// SO CONFUSED Y U NO WORKKK!
