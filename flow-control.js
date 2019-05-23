@@ -1,5 +1,5 @@
 function basicTeenager(age) {
-  if (age) {console.log('You are a teenager!')}
+  if basicTeenager(age) {console.log('You are a teenager!')}
 }
 
 function teenager(age) {
