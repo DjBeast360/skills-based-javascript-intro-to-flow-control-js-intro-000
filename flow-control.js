@@ -19,3 +19,4 @@ function ternaryTeenager(age) {
 function switchAge(age) {
 
 }
+var (age) '13'
